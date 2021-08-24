@@ -1,8 +1,7 @@
 {
   "name": "npm-starter-vcs",
   "version": "1.0.0",
-  "description": "This is a simple project starter configured to use eslint with airbnb and prettier rules.
-    Meant to be used with VSC, with esling and prettier extensions installed",
+  "description": "This is a simple project starter configured to use eslint with airbnb and prettier rules.  Meant to be used with VSC, with esling and prettier extensions installed",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
