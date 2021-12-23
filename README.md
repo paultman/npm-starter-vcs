@@ -9,7 +9,7 @@ See the blogpost at https://paultman.com/setup-visual-studio-code-on-an-m1-mba-i
 Feel free to use this as a project starter and update it for your own project by:
 - Cloning the repo into your own project directory
 ie: git clone https://github.com/paultman/npm-starter-vcs.git  my-own-project
-- Remove my initial git repo by running: rm -ef .git
+- CD into your repo and remove my initial git repo by running: rm -rf .git
 - Initialize your own git repo: git init .
 - Update the readme.md and package.json files to reflect your information and unique project.
 - Add all files to your local repo: git add .
