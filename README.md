@@ -23,6 +23,12 @@ I am working on another projected and noticed that this starter is a bit outdate
 
 - npm list //show currently installed packages
 - npm outdated //show outdated packages
-- npm update //update packages up to setver in package.json
+- npm update //update packages up to semver in package.json
 
 If you are starting a new project, best to update packages and commit before getting started with your own code.
+
+#### Reference
+
+Check out the npm page for semantic versioning and how it is used.
+
+https://docs.npmjs.com/about-semantic-versioning
