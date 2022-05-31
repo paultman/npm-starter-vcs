@@ -1,6 +1,6 @@
 # Basic NPM based starter project
 
-This code is part of a guide to setup a Visual Studio Code javascript project with uses Eslint, the Airbnb Style Guide, and Prettier.
+This code is part of a guide to setup a Visual Studio Code javascript project with uses Eslint, the Airbnb Style Guide, Stylelint and Prettier.
 
 It is meant to support a VSC project using the EsLint and Prettier extensions.
 
